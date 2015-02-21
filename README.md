@@ -12,7 +12,7 @@ Feel free to use or contribute.
 It's just a sample project that uses the classes in different ways.
 Find Classes in MLSampleCode/Classes/.
 
-### Classes
+## Classes
 #### ActivityIndicatorView
 Simple full screen activity indicator view that covers the whole screen with translucent black.
 ##### Features:
