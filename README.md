@@ -37,7 +37,7 @@ Subclass of UIImageView that enables loading of any image resource via NSURL and
 
 
 #### VideoController
-Video player that uses MPMoviePlayer to play a given video inside any view, taking the whole frame.
+Video player that uses MPMoviePlayerController to play a given video inside any view, taking the whole frame.
 ##### Features:
 * Handles loading of video.
 * Fade in when starts playing.
